@@ -167,8 +167,6 @@ mv protocol.opt.wasm protocol.wasm
 
 ## 鸣谢 🙏
 
-
-
 - [杨幂的脚 (cmliu)](https://github.com/cmliu/edgetunnel)
 - [AK大佬 (Alexandre_Kojeve)](https://t.me/Notif_Chat)
 - [天书 (HeroCore)](https://t.me/HeroCore)
